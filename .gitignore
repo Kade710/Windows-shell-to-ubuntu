@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 # VS Code (if you use it)
 .vscode/
 !.vscode/extensions.json
+scripts/test.sh
