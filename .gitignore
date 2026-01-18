@@ -27,3 +27,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 scripts/test.sh
 eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
