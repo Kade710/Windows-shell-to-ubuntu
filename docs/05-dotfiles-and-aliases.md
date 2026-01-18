@@ -16,7 +16,7 @@ If you use Zsh, you’ll use `~/.zshrc` instead.
 
 ---
 
-## Add useful aliases (Bash)
+## useful aliases
 
 Edit your bash config:
 
