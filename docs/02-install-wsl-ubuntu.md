@@ -23,3 +23,11 @@ whoami  account username
 build-essential git curl unzip ca-certificates
 cat /etc/os-release   Ubuntu 24.XX.XX LTS
 install --reinstall apt  //I was missing some packages//
+
+## Verify VS Code (Windows + WSL)
+
+### Windows PowerShell
+PowerShell’s `where` can behave differently because of aliases, so use:
+
+```powershell
+where.exe code
