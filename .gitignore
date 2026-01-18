@@ -12,3 +12,16 @@
 
 pkg/
 src/
+
+
+# Windows noise
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows Terminal / PowerShell history
+*.lnk
+
+# VS Code (if you use it)
+.vscode/
+!.vscode/extensions.json
