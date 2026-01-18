@@ -1,1 +1,7 @@
+select disk 2
+clean
+create partition primary
+format fs=ntfs quick label=DEV_WORK
+assign letter=W
+exit
 
